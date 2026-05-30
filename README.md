@@ -117,4 +117,8 @@ This project has several limitations:
 
 ## Final Summary
 
-This project explored retail sales forecasting using machine learning models and feature engineering on the Corporación Favorita dataset. The results showed that lag features and ensemble models were especially effective at capturing time based sales patterns and improving prediction accuracy compared to simpler forecasting approaches.
+This project showed that feature engineering was one of the most important factors in retail sales forecasting. Lag and rolling features significantly improved prediction performance by helping traditional machine learning models capture temporal patterns. Among the models tested, ensemble methods such as Random Forest and LightGBM were the most effective at modeling complex sales behavior.
+
+## Note
+
+GitHub may not display notebook previews correctly. If needed, please download the `.ipynb` file and open it in Jupyter Notebook or VS Code.
